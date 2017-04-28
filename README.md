@@ -1,5 +1,5 @@
 # San Diego County Kindergarten Vaccination Rates Analysis
-by Joe Yerardi
+by [Joe Yerardi](https://twitter.com/JoeYerardi)
 
 *inewsource* conducted an analysis of data from the [California Department of Education](http://www.cde.ca.gov/ds/sd/sd/filessp.asp) and the [California Department of Public Health](https://www.cdph.ca.gov/programs/immunize/pages/immunizationlevels.aspx) to determine vaccination rates at kindergartens in San Diego County for the 2016-17 school year.
 
